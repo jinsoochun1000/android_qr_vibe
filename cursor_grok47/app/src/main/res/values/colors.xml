@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="result_background">#F7F7F8</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#5C6570</color>
+    <color name="guide_stroke">#F2FFFFFF</color>
+    <color name="permission_scrim">#CC000000</color>
+</resources>

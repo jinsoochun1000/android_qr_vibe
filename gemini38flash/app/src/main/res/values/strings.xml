@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QR-Reader</string>
+    <string name="title_bar">QR-Reader</string>
+    <string name="label_barcode_format">바코드 형식</string>
+    <string name="label_barcode_content">바코드 내용</string>
+    <string name="placeholder_format">스캔 대기 중...</string>
+    <string name="placeholder_content">카메라를 QR 코드 또는 바코드(1D/2D)에 비춰주세요.</string>
+    <string name="btn_copy">복사하기</string>
+    <string name="btn_rescan">다시 스캔</string>
+    <string name="toast_copied">바코드 내용이 클립보드에 복사되었습니다.</string>
+    <string name="toast_no_content">복사할 바코드 내용이 없습니다.</string>
+    <string name="camera_permission_required">카메라 권한이 필요합니다. 설정에서 권한을 허용해주세요.</string>
+    <string name="camera_permission_denied">카메라 권한이 거부되어 바코드를 스캔할 수 없습니다.</string>
+    <string name="btn_grant_permission">권한 허용하기</string>
+    <string name="scan_hint">사각형 영역 안에 바코드를 맞춰주세요</string>
+</resources>

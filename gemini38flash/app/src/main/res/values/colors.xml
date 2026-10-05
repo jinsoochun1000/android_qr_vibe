@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="primary">#00E599</color>
+    <color name="primary_variant">#00B377</color>
+    <color name="on_primary">#0A0F1D</color>
+
+    <color name="secondary">#00C9FF</color>
+    <color name="on_secondary">#0A0F1D</color>
+
+    <!-- Dark Futuristic Backgrounds -->
+    <color name="background">#0F172A</color>
+    <color name="surface">#1E293B</color>
+    <color name="surface_variant">#334155</color>
+    <color name="card_background">#162032</color>
+
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_accent">#00E599</color>
+
+    <!-- Scanner Reticle Colors -->
+    <color name="reticle_corner">#00E599</color>
+    <color name="reticle_laser">#FF0055</color>
+    <color name="reticle_dim_mask">#80000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
