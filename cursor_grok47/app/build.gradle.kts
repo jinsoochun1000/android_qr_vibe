@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "kr.co.tkinfo.qr26"
+    namespace = "kr.co.tkinfo.qrcursorgrok47"
     compileSdk = 36
     buildToolsVersion = "36.0.0"
 
     defaultConfig {
-        applicationId = "kr.co.tkinfo.qr26"
+        applicationId = "kr.co.tkinfo.qrcursorgrok47"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

@@ -1,4 +1,4 @@
-package kr.co.tkinfo.qr26
+package kr.co.tkinfo.qrcursorgrok47
 
 import android.Manifest
 import android.content.ClipData
@@ -28,7 +28,7 @@ import com.google.mlkit.vision.barcode.BarcodeScanner
 import com.google.mlkit.vision.barcode.BarcodeScannerOptions
 import com.google.mlkit.vision.barcode.BarcodeScanning
 import com.google.mlkit.vision.barcode.common.Barcode
-import kr.co.tkinfo.qr26.databinding.ActivityMainBinding
+import kr.co.tkinfo.qrcursorgrok47.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

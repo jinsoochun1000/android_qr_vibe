@@ -67,7 +67,7 @@ qr_reader/
   gradle/wrapper/
   app/build.gradle.kts
   app/src/main/AndroidManifest.xml
-  app/src/main/java/kr/co/tkinfo/qr26/MainActivity.kt
+  app/src/main/java/kr/co/tkinfo/qrcursorgrok47/MainActivity.kt
   app/src/main/res/layout/activity_main.xml
   app/src/main/res/values/strings.xml
   app/src/main/res/values/themes.xml
@@ -75,7 +75,7 @@ qr_reader/
   prompt.md          원래 요구사항. 앱 빌드에는 쓰이지 않는다
 ```
 
-패키지와 applicationId는 `kr.co.tkinfo.qr26`이다. 화면은 `MainActivity` 하나이고, 레이아웃은 ViewBinding(`ActivityMainBinding`)으로 연결한다.
+패키지와 applicationId는 `kr.co.tkinfo.qrcursorgrok47`이다. 화면은 `MainActivity` 하나이고, 레이아웃은 ViewBinding(`ActivityMainBinding`)으로 연결한다.
 
 ## 동작 흐름
 
